@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "TLgvX2+iIqQXWGu9bDH3QwFMIAfOrtYx/i4sa/5ZiebgNPFfYy1TIH6vLuys0qy4nzGRZdk3vOt48xhV87TMDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Windows\\source\\repos\\WoMakersCode.Biblioteca.API\\WoMakersCode.Biblioteca.Application\\WoMakersCode.Biblioteca.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Windows\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\Windows\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\Windows\\.nuget\\packages\\fluentvalidation\\11.1.0\\fluentvalidation.11.1.0.nupkg.sha512",
+    "C:\\Users\\Windows\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.1.2\\fluentvalidation.aspnetcore.11.1.2.nupkg.sha512",
+    "C:\\Users\\Windows\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.1.0\\fluentvalidation.dependencyinjectionextensions.11.1.0.nupkg.sha512",
+    "C:\\Users\\Windows\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Windows\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Windows\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Windows\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Windows\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

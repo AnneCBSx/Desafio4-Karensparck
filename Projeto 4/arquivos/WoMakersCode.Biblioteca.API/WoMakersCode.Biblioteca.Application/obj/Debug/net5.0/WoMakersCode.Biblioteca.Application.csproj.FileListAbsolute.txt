@@ -1,0 +1,15 @@
+C:\Users\Windows\source\repos\WoMakersCode.Biblioteca.API\WoMakersCode.Biblioteca.Application\bin\Debug\net5.0\WoMakersCode.Biblioteca.Application.deps.json
+C:\Users\Windows\source\repos\WoMakersCode.Biblioteca.API\WoMakersCode.Biblioteca.Application\bin\Debug\net5.0\WoMakersCode.Biblioteca.Application.dll
+C:\Users\Windows\source\repos\WoMakersCode.Biblioteca.API\WoMakersCode.Biblioteca.Application\bin\Debug\net5.0\ref\WoMakersCode.Biblioteca.Application.dll
+C:\Users\Windows\source\repos\WoMakersCode.Biblioteca.API\WoMakersCode.Biblioteca.Application\bin\Debug\net5.0\WoMakersCode.Biblioteca.Application.pdb
+C:\Users\Windows\source\repos\WoMakersCode.Biblioteca.API\WoMakersCode.Biblioteca.Application\bin\Debug\net5.0\WoMakersCode.Biblioteca.Core.dll
+C:\Users\Windows\source\repos\WoMakersCode.Biblioteca.API\WoMakersCode.Biblioteca.Application\bin\Debug\net5.0\WoMakersCode.Biblioteca.Core.pdb
+C:\Users\Windows\source\repos\WoMakersCode.Biblioteca.API\WoMakersCode.Biblioteca.Application\obj\Debug\net5.0\WoMakersCode.Biblioteca.Application.csproj.AssemblyReference.cache
+C:\Users\Windows\source\repos\WoMakersCode.Biblioteca.API\WoMakersCode.Biblioteca.Application\obj\Debug\net5.0\WoMakersCode.Biblioteca.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\source\repos\WoMakersCode.Biblioteca.API\WoMakersCode.Biblioteca.Application\obj\Debug\net5.0\WoMakersCode.Biblioteca.Application.AssemblyInfoInputs.cache
+C:\Users\Windows\source\repos\WoMakersCode.Biblioteca.API\WoMakersCode.Biblioteca.Application\obj\Debug\net5.0\WoMakersCode.Biblioteca.Application.AssemblyInfo.cs
+C:\Users\Windows\source\repos\WoMakersCode.Biblioteca.API\WoMakersCode.Biblioteca.Application\obj\Debug\net5.0\WoMakersCode.Biblioteca.Application.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\WoMakersCode.Biblioteca.API\WoMakersCode.Biblioteca.Application\obj\Debug\net5.0\WoMakersCode.Biblioteca.Application.csproj.CopyComplete
+C:\Users\Windows\source\repos\WoMakersCode.Biblioteca.API\WoMakersCode.Biblioteca.Application\obj\Debug\net5.0\WoMakersCode.Biblioteca.Application.dll
+C:\Users\Windows\source\repos\WoMakersCode.Biblioteca.API\WoMakersCode.Biblioteca.Application\obj\Debug\net5.0\ref\WoMakersCode.Biblioteca.Application.dll
+C:\Users\Windows\source\repos\WoMakersCode.Biblioteca.API\WoMakersCode.Biblioteca.Application\obj\Debug\net5.0\WoMakersCode.Biblioteca.Application.pdb

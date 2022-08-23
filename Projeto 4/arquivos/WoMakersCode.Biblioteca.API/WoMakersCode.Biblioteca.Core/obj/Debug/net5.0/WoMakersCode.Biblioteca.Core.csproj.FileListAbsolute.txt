@@ -1,0 +1,11 @@
+C:\Users\Windows\source\repos\WoMakersCode.Biblioteca.API\WoMakersCode.Biblioteca.Core\bin\Debug\net5.0\WoMakersCode.Biblioteca.Core.deps.json
+C:\Users\Windows\source\repos\WoMakersCode.Biblioteca.API\WoMakersCode.Biblioteca.Core\bin\Debug\net5.0\WoMakersCode.Biblioteca.Core.dll
+C:\Users\Windows\source\repos\WoMakersCode.Biblioteca.API\WoMakersCode.Biblioteca.Core\bin\Debug\net5.0\ref\WoMakersCode.Biblioteca.Core.dll
+C:\Users\Windows\source\repos\WoMakersCode.Biblioteca.API\WoMakersCode.Biblioteca.Core\bin\Debug\net5.0\WoMakersCode.Biblioteca.Core.pdb
+C:\Users\Windows\source\repos\WoMakersCode.Biblioteca.API\WoMakersCode.Biblioteca.Core\obj\Debug\net5.0\WoMakersCode.Biblioteca.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\source\repos\WoMakersCode.Biblioteca.API\WoMakersCode.Biblioteca.Core\obj\Debug\net5.0\WoMakersCode.Biblioteca.Core.AssemblyInfoInputs.cache
+C:\Users\Windows\source\repos\WoMakersCode.Biblioteca.API\WoMakersCode.Biblioteca.Core\obj\Debug\net5.0\WoMakersCode.Biblioteca.Core.AssemblyInfo.cs
+C:\Users\Windows\source\repos\WoMakersCode.Biblioteca.API\WoMakersCode.Biblioteca.Core\obj\Debug\net5.0\WoMakersCode.Biblioteca.Core.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\WoMakersCode.Biblioteca.API\WoMakersCode.Biblioteca.Core\obj\Debug\net5.0\WoMakersCode.Biblioteca.Core.dll
+C:\Users\Windows\source\repos\WoMakersCode.Biblioteca.API\WoMakersCode.Biblioteca.Core\obj\Debug\net5.0\ref\WoMakersCode.Biblioteca.Core.dll
+C:\Users\Windows\source\repos\WoMakersCode.Biblioteca.API\WoMakersCode.Biblioteca.Core\obj\Debug\net5.0\WoMakersCode.Biblioteca.Core.pdb
